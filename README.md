@@ -1,4 +1,6 @@
-### Hi there 👋
+![Profile Trophy](https://github-profile-trophy.vercel.app/?username=tematarasov&theme=flat&margin-w=10)
+
+![Stats](https://github-readme-stats.vercel.app/api/?username=tematarasov&theme=flat)
 
 <!--
 **TemaTarasov/tematarasov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
